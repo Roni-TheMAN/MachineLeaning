@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JupyterPersistentConnectionParameters">
+    <option name="knownRemoteServers">
+      <list>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="token" value="e62d591607baa45d73a770c575c6fda30592e79ee024e1735fb6e1c9d0a2bccc" />
+          <option name="urlString" value="https://50.173.30.254:24264/" />
+          <authParams2>
+            <map>
+              <entry key="token" value="e62d591607baa45d73a770c575c6fda30592e79ee024e1735fb6e1c9d0a2bccc" />
+            </map>
+          </authParams2>
+        </JupyterConnectionParameters>
+      </list>
+    </option>
+    <option name="moduleParameters">
+      <map>
+        <entry key="$PROJECT_DIR$/.idea/TorchVision1.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+              <option name="sdkName" value="" />
+              <option name="environmentVariables">
+                <map>
+                  <entry name="KMP_DUPLICATE_LIB_OK" value="True" />
+                </map>
+              </option>
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
